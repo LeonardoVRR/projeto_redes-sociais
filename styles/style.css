@@ -36,7 +36,21 @@ main {
     position: relative;
     top: 65px;
     left: 18px;
-    width: 33.4vw;
-    height: 67vh;
+    width: 16.5vw;
+    height: 60vh;
     border-radius: 2px;
+}
+
+#redes-sociais {
+    background-color: transparent;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: flex-end;
+    margin-right: 10px;
+}
+
+#redes-sociais img {
+    border-radius: 50%;
+    height: 10vh;
+    margin-top: 10px;
 }

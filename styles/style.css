@@ -35,10 +35,17 @@ main {
 #tela {
     position: relative;
     top: 65px;
+    left: 19px;
+    width: 210px;
+    height: 375px;
+
+    /*
+    top: 65px;
     left: 18px;
-    width: 16.5vw;
-    height: 60vh;
+    width: 33vw;
+    height: 67vh;
     border-radius: 2px;
+    */
 }
 
 #redes-sociais {
@@ -53,4 +60,12 @@ main {
     border-radius: 50%;
     height: 10vh;
     margin-top: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
+    transition: 0.45s;
+}
+
+#redes-sociais img:hover {
+    border:2px solid rgba(255, 255, 255, 0.6);
+    transform: translate(-3px, -3px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.400);
 }

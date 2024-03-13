@@ -18,6 +18,7 @@ projeto feito com a intenção de testar o uso de iframes, nele é possivel nave
 não é necessário nenhum pré-requisito é só acessar o projeto pelo link disponibilizado em [Acesso ao Projeto](#acesso-ao-projeto) e utiliza-lo.
 
 ## Resultado final do projeto
+![Captura de tela 2024-03-13 105830](https://github.com/LeonardoVRR/projeto_redes-sociais/assets/102774822/3574a956-1604-4017-a88c-166034d17305)
 
 ## Possiveis problemas
 o projeto foi testado apenas no navegador Google Chrome, então pode ser possivel que alguns recursos não tenham compatibilidade com outros navegadores.
